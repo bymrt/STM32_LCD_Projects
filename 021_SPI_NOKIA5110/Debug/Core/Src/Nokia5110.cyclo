@@ -1,0 +1,9 @@
+../Core/Src/Nokia5110.c:109:6:Nokia5110_Init	1
+../Core/Src/Nokia5110.c:124:6:LCD_Clear	3
+../Core/Src/Nokia5110.c:138:6:Nokia5110_Reset	1
+../Core/Src/Nokia5110.c:149:6:Nokia5110_Write	3
+../Core/Src/Nokia5110.c:169:6:Nokia5110_BufferWrite	1
+../Core/Src/Nokia5110.c:179:6:LCD_Write_Char	2
+../Core/Src/Nokia5110.c:188:6:LCD_Write_String	2
+../Core/Src/Nokia5110.c:199:6:LCD_Set_Postion	1
+../Core/Src/Nokia5110.c:207:6:LCD_Write_Command	1

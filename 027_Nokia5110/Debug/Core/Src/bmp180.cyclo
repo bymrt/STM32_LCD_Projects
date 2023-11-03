@@ -1,0 +1,6 @@
+../Core/Src/bmp180.c:12:6:BMP180_Init	2
+../Core/Src/bmp180.c:52:6:BMP180_Get_Calibration_Value	12
+../Core/Src/bmp180.c:132:6:BMP180_Get_Temperature	4
+../Core/Src/bmp180.c:154:6:BMP180_GetUncomponsated_Temperature	1
+../Core/Src/bmp180.c:172:6:BMP180_GetPresure	12
+../Core/Src/bmp180.c:211:6:BMP180_GetUncomponsated_Presure	1
